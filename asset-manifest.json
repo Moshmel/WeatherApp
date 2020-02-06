@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.9df3617f.chunk.css",
+    "main.js": "/WeatherApp/static/js/main.a524e2ca.chunk.js",
+    "main.js.map": "/WeatherApp/static/js/main.a524e2ca.chunk.js.map",
+    "runtime~main.js": "/WeatherApp/static/js/runtime~main.7470692f.js",
+    "runtime~main.js.map": "/WeatherApp/static/js/runtime~main.7470692f.js.map",
+    "static/js/2.5e1a30aa.chunk.js": "/WeatherApp/static/js/2.5e1a30aa.chunk.js",
+    "static/js/2.5e1a30aa.chunk.js.map": "/WeatherApp/static/js/2.5e1a30aa.chunk.js.map",
+    "index.html": "/WeatherApp/index.html",
+    "precache-manifest.4411180c42a8695096c6985268bdf2e8.js": "/WeatherApp/precache-manifest.4411180c42a8695096c6985268bdf2e8.js",
+    "service-worker.js": "/WeatherApp/service-worker.js",
+    "static/css/main.9df3617f.chunk.css.map": "/WeatherApp/static/css/main.9df3617f.chunk.css.map",
+    "static/media/App.scss": "/WeatherApp/static/media/Signika-Regular.ba0080fa.ttf"
+  }
+}
